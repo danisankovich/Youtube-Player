@@ -1,0 +1,16 @@
+.mainContent {
+  margin-top: 100px;
+}
+nav {
+  background-color: #110011 !important;
+}
+a.navbar-brand {
+  color: red;
+  font-size: 32px;
+}
+.jokeReason {
+  color: #CC4422;
+  font-size: 32px;
+  float: right;
+  margin-top: 10px;
+}
